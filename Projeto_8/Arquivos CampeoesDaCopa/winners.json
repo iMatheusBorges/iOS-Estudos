@@ -1,0 +1,1206 @@
+[{
+		"year": 2014,
+		"country": "Brasil",
+		"winner": "Alemanha",
+		"vice": "Argentina",
+		"winnerScore": "1",
+		"viceScore": "0",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Alemanha",
+						"away": "Portugal",
+						"score": "4 x 0",
+						"date": "16 de junho"
+					},
+					{
+						"home": "Alemanha",
+						"away": "Gana",
+						"score": "2 x 2",
+						"date": "21 de junho"
+					},
+					{
+						"home": "Estados Unidos",
+						"away": "Alemanha",
+						"score": "0 x 1",
+						"date": "26 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Alemanha",
+					"away": "Argélia",
+					"score": "2 x 1",
+					"date": "30 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "França",
+					"away": "Alemanha",
+					"score": "0 x 1",
+					"date": "4 de julho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Brasil",
+					"away": "Alemanha",
+					"score": "1 x 7",
+					"date": "8 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Alemanha",
+					"away": "Argentina",
+					"score": "1 x 0",
+					"date": "13 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 2010,
+		"country": "África do Sul",
+		"winner": "Espanha",
+		"vice": "Holanda",
+		"winnerScore": "1",
+		"viceScore": "0",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Espanha",
+						"away": "Suíça",
+						"score": "0 x 1",
+						"date": "16 de junho"
+					},
+					{
+						"home": "Espanha",
+						"away": "Honduras",
+						"score": "2 x 0",
+						"date": "21 de junho"
+					},
+					{
+						"home": "Chile",
+						"away": "Espanha",
+						"score": "1 x 2",
+						"date": "25 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Espanha",
+					"away": "Portugal",
+					"score": "1 x 0",
+					"date": "29 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Paraguai",
+					"away": "Espanha",
+					"score": "0 x 1",
+					"date": "3 de julho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Alemanha",
+					"away": "Espanha",
+					"score": "0 x 1",
+					"date": "7 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Holanda",
+					"away": "Espanha",
+					"score": "0 x 1",
+					"date": "11 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 2006,
+		"country": "Alemanha",
+		"winner": "Itália",
+		"vice": "França",
+		"winnerScore": "1 (5)",
+		"viceScore": "1 (3)",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Itália",
+						"away": "Gana",
+						"score": "2 x 0",
+						"date": "12 de junho"
+					},
+					{
+						"home": "Itália",
+						"away": "Estados Unidos",
+						"score": "1 x 1",
+						"date": "17 de junho"
+					},
+					{
+						"home": "República Tcheca",
+						"away": "Itália",
+						"score": "0 x 2",
+						"date": "22 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Itália",
+					"away": "Austrália",
+					"score": "1 x 0",
+					"date": "26 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Itália",
+					"away": "Ucrânia",
+					"score": "3 x 0",
+					"date": "30 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Alemanha",
+					"away": "Itália",
+					"score": "0 x 2",
+					"date": "4 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Itália",
+					"away": "França",
+					"score": "(5) 1 x 1 (3)",
+					"date": "9 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 2002,
+		"country": "Coreia do Sul e Japão",
+		"winner": "Brasil",
+		"vice": "Alemanha",
+		"winnerScore": "2",
+		"viceScore": "0",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Brasil",
+						"away": "Turquia",
+						"score": "2 x 1",
+						"date": "3 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "China",
+						"score": "4 x 0",
+						"date": "8 de junho"
+					},
+					{
+						"home": "Costa Rica",
+						"away": "Brasil",
+						"score": "2 x 5",
+						"date": "13 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Bélgica",
+					"score": "2 x 0",
+					"date": "17 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Inglaterra",
+					"away": "Brasil",
+					"score": "1 x 2",
+					"date": "21 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Brasil",
+					"away": "Turquia",
+					"score": "1 x 0",
+					"date": "26 de junho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Alemanha",
+					"away": "Brasil",
+					"score": "0 x 2",
+					"date": "30 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1998,
+		"country": "França",
+		"winner": "França",
+		"vice": "Brasil",
+		"winnerScore": "3",
+		"viceScore": "0",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "França",
+						"away": "África do Sul",
+						"score": "3 x 0",
+						"date": "12 de junho"
+					},
+					{
+						"home": "França",
+						"away": "Arábia Saudita",
+						"score": "4 x 0",
+						"date": "18 de junho"
+					},
+					{
+						"home": "França",
+						"away": "Dinamarca",
+						"score": "2 x 1",
+						"date": "24 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "França",
+					"away": "Paraguai",
+					"score": "1 x 0",
+					"date": "28 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Itália",
+					"away": "França",
+					"score": "(3) 0 x 0 (4)",
+					"date": "3 de julho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "França",
+					"away": "Croácia",
+					"score": "2 x 1",
+					"date": "8 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "França",
+					"score": "0 x 3",
+					"date": "12 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1994,
+		"country": "Estados Unidos",
+		"winner": "Brasil",
+		"vice": "Itália",
+		"winnerScore": "(0) 3",
+		"viceScore": "0 (2)",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Brasil",
+						"away": "Rússia",
+						"score": "2 x 0",
+						"date": "20 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Camarões",
+						"score": "3 x 0",
+						"date": "24 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Suécia",
+						"score": "1 x 1",
+						"date": "28 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Estados Unidos",
+					"score": "1 x 0",
+					"date": "3 de julho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Holanda",
+					"away": "Brasil",
+					"score": "2 x 3",
+					"date": "9 de julho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Suécia",
+					"away": "Brasil",
+					"score": "0 x 1",
+					"date": "13 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Itália",
+					"score": "(3) 0 x 0 (2)",
+					"date": "17 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1990,
+		"country": "Itália",
+		"winner": "Alemanha Ocidental",
+		"vice": "Argentina",
+		"winnerScore": "1",
+		"viceScore": "0",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Alemanha Ocidental",
+						"away": "Iugoslávia",
+						"score": "4 x 1",
+						"date": "10 de junho"
+					},
+					{
+						"home": "Alemanha Ocidental",
+						"away": "Emirados Árabes",
+						"score": "5 x 1",
+						"date": "15 de junho"
+					},
+					{
+						"home": "Alemanha Ocidental",
+						"away": "Colômbia",
+						"score": "1 x 1",
+						"date": "19 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Alemanha Ocidental",
+					"away": "Holanda",
+					"score": "2 x 1",
+					"date": "24 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Tchecoslováquia",
+					"away": "Alemanha Ocidental",
+					"score": "0 x 1",
+					"date": "1 de julho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Alemanha Ocidental",
+					"away": "Inglaterra",
+					"score": "(4) 1 x 1 (3)",
+					"date": "4 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Argentina",
+					"away": "Alemanha Ocidental",
+					"score": "0 x 1",
+					"date": "8 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1986,
+		"country": "México",
+		"winner": "Argentina",
+		"vice": "Alemanha Ocidental",
+		"winnerScore": "3",
+		"viceScore": "2",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Argentina",
+						"away": "Coreia do Sul",
+						"score": "3 x 1",
+						"date": "2 de junho"
+					},
+					{
+						"home": "Itália",
+						"away": "Argentina",
+						"score": "1 x 1",
+						"date": "5 de junho"
+					},
+					{
+						"home": "Argentina",
+						"away": "Bulgária",
+						"score": "2 x 0",
+						"date": "10 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Argentina",
+					"away": "Uruguai",
+					"score": "1 x 0",
+					"date": "16 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Argentina",
+					"away": "Inglaterra",
+					"score": "2 x 1",
+					"date": "22 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Argentina",
+					"away": "Bélgica",
+					"score": "2 x 0",
+					"date": "25 de junho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Argentina",
+					"away": "Alemanha Ocidental",
+					"score": "3 x 2",
+					"date": "29 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1982,
+		"country": "Espanha",
+		"winner": "Itália",
+		"vice": "Alemanha Ocidental",
+		"winnerScore": "3",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Fase de Grupos",
+				"games": [{
+						"home": "Itália",
+						"away": "Polônia",
+						"score": "0 x 0",
+						"date": "14 de junho"
+					},
+					{
+						"home": "Itália",
+						"away": "Peru",
+						"score": "1 x 1",
+						"date": "18 de junho"
+					},
+					{
+						"home": "Itália",
+						"away": "Camarões",
+						"score": "1 x 1",
+						"date": "23 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Segunda Fase",
+				"games": [{
+						"home": "Itália",
+						"away": "Argentina",
+						"score": "2 x 1",
+						"date": "29 de junho"
+					},
+					{
+						"home": "Itália",
+						"away": "Brasil",
+						"score": "3 x 2",
+						"date": "5 de julho"
+					}
+				]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Polônia",
+					"away": "Itália",
+					"score": "0 x 2",
+					"date": "8 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Itália",
+					"away": "Alemanha Ocidental",
+					"score": "3 x 1",
+					"date": "11 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1978,
+		"country": "Argentina",
+		"winner": "Argentina",
+		"vice": "Holanda",
+		"winnerScore": "3",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Argentina",
+						"away": "Hungria",
+						"score": "2 x 1",
+						"date": "2 de junho"
+					},
+					{
+						"home": "Argentina",
+						"away": "França",
+						"score": "2 x 1",
+						"date": "6 de junho"
+					},
+					{
+						"home": "Argentina",
+						"away": "Itália",
+						"score": "0 x 1",
+						"date": "10 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Segunda Fase",
+				"games": [{
+						"home": "Argentina",
+						"away": "Polônia",
+						"score": "2 x 0",
+						"date": "14 de junho"
+					},
+					{
+						"home": "Argentina",
+						"away": "Brasil",
+						"score": "0 x 0",
+						"date": "18 de julho"
+					},
+					{
+						"home": "Argentina",
+						"away": "Peru",
+						"score": "6 x 0",
+						"date": "21 de julho"
+					}
+				]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Holanda",
+					"away": "Argentina",
+					"score": "1 x 3",
+					"date": "25 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1974,
+		"country": "Alemanha Ocidental",
+		"winner": "Alemanha Ocidental",
+		"vice": "Holanda",
+		"winnerScore": "2",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Alemanha Ocidental",
+						"away": "Chile",
+						"score": "1 x 0",
+						"date": "14 de junho"
+					},
+					{
+						"home": "Austrália",
+						"away": "Alemanha Ocidental",
+						"score": "0 x 3",
+						"date": "18 de junho"
+					},
+					{
+						"home": "Alemanha Oriental",
+						"away": "Alemanha Ocidental",
+						"score": "1 x 0",
+						"date": "22 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Segunda Fase",
+				"games": [{
+						"home": "Iugoslávia",
+						"away": "Alemanha Ocidental",
+						"score": "0 x 2",
+						"date": "26 de junho"
+					},
+					{
+						"home": "Alemanha Ocidental",
+						"away": "Suécia",
+						"score": "4 x 2",
+						"date": "30 de julho"
+					},
+					{
+						"home": "Polônia",
+						"away": "Alemanha Ocidental",
+						"score": "0 x 1",
+						"date": "3 de julho"
+					}
+				]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Holanda",
+					"away": "Alemanha Ocidental",
+					"score": "1 x 2",
+					"date": "7 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1970,
+		"country": "México",
+		"winner": "Brasil",
+		"vice": "Itália",
+		"winnerScore": "4",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Brasil",
+						"away": "Tchecoslováquia",
+						"score": "4 x 1",
+						"date": "3 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Inglaterra",
+						"score": "1 x 0",
+						"date": "7 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Romênia",
+						"score": "3 x 2",
+						"date": "10 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Peru",
+					"score": "4 x 2",
+					"date": "14 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Uruguai",
+					"away": "Brasil",
+					"score": "1 x 3",
+					"date": "17 de junho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Itália",
+					"score": "4 x 1",
+					"date": "21 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1966,
+		"country": "Inglaterra",
+		"winner": "Inglaterra",
+		"vice": "Alemanha Ocidental",
+		"winnerScore": "4",
+		"viceScore": "2",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Inglaterra",
+						"away": "Uruguai",
+						"score": "0 x 0",
+						"date": "11 de julho"
+					},
+					{
+						"home": "Inglaterra",
+						"away": "México",
+						"score": "2 x 0",
+						"date": "16 de julho"
+					},
+					{
+						"home": "Inglaterra",
+						"away": "França",
+						"score": "2 x 0",
+						"date": "20 de julho"
+					}
+				]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Inglaterra",
+					"away": "Argentina",
+					"score": "1 x 0",
+					"date": "23 de julho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Inglaterra",
+					"away": "Portugal",
+					"score": "2 x 1",
+					"date": "26 de julho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Inglaterra",
+					"away": "Alemanha Ocidental",
+					"score": "4 x 2",
+					"date": "30 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1962,
+		"country": "Chile",
+		"winner": "Brasil",
+		"vice": "Tchecoslováquia",
+		"winnerScore": "3",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Brasil",
+						"away": "México",
+						"score": "2 x 0",
+						"date": "30 de maio"
+					},
+					{
+						"home": "Brasil",
+						"away": "Tchecoslováquia",
+						"score": "0 x 0",
+						"date": "2 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Espanha",
+						"score": "2 x 1",
+						"date": "6 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Inglaterra",
+					"score": "3 x 1",
+					"date": "10 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Chile",
+					"away": "Brasil",
+					"score": "2 x 4",
+					"date": "13 de junho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Tchecoslováquia",
+					"score": "3 x 1",
+					"date": "17 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1958,
+		"country": "Suécia",
+		"winner": "Brasil",
+		"vice": "Suécia",
+		"winnerScore": "5",
+		"viceScore": "2",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Brasil",
+						"away": "Áustria",
+						"score": "3 x 0",
+						"date": "8 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Inglaterra",
+						"score": "0 x 0",
+						"date": "11 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "União Soviética",
+						"score": "2 x 0",
+						"date": "15 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "País de Gales",
+					"score": "1 x 0",
+					"date": "19 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Brasil",
+					"away": "França",
+					"score": "5 x 2",
+					"date": "24 de junho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Brasil",
+					"away": "Suécia",
+					"score": "5 x 2",
+					"date": "29 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1954,
+		"country": "Suíça",
+		"winner": "Alemanha Ocidental",
+		"vice": "Hungria",
+		"winnerScore": "3",
+		"viceScore": "2",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Alemanha Ocidental",
+						"away": "Turquia",
+						"score": "4 x 1",
+						"date": "17 de junho"
+					},
+					{
+						"home": "Hungria",
+						"away": "Alemanha Ocidental",
+						"score": "8 x 3",
+						"date": "20 de junho"
+					},
+					{
+						"home": "Alemanha Ocidental",
+						"away": "Turquia",
+						"score": "7 x 2",
+						"date": "23 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "Alemanha Ocidental",
+					"away": "Iugoslávia",
+					"score": "2 x 0",
+					"date": "27 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Alemanha Ocidental",
+					"away": "Áustria",
+					"score": "6 x 1",
+					"date": "30 de junho"
+				}]
+			},
+			{
+				"stage": "Final",
+				"games": [{
+					"home": "Alemanha Ocidental",
+					"away": "Hungria",
+					"score": "3 x 2",
+					"date": "4 de julho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1950,
+		"country": "Brasil",
+		"winner": "Uruguai",
+		"vice": "Brasil",
+		"winnerScore": "2",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Fase de grupos",
+				"games": [{
+						"home": "Brasil",
+						"away": "México",
+						"score": "4 x 0",
+						"date": "24 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Suíça",
+						"score": "2 x 2",
+						"date": "28 de junho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Iugoslávia",
+						"score": "2 x 0",
+						"date": "1 de julho"
+					}
+				]
+			},
+			{
+				"stage": "Quadrangular Final",
+				"games": [{
+						"home": "Brasil",
+						"away": "Suécia",
+						"score": "7 x 1",
+						"date": "9 de julho"
+					},
+					{
+						"home": "Brasil",
+						"away": "Espanha",
+						"score": "6 x 1",
+						"date": "13 de julho"
+					},
+					{
+						"home": "Uruguai",
+						"away": "Brasil",
+						"score": "2 x 1",
+						"date": "16 de julho"
+					}
+				]
+			}
+		]
+	},
+	{
+		"year": 1938,
+		"country": "França",
+		"winner": "Itália",
+		"vice": "Hungria",
+		"winnerScore": "4",
+		"viceScore": "2",
+		"matches": [{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Itália",
+					"away": "Noruega",
+					"score": "2 x 1",
+					"date": "5 de junho"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+					"home": "França",
+					"away": "Itália",
+					"score": "1 x 3",
+					"date": "12 de junho"
+				}]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Itália",
+					"away": "Brasil",
+					"score": "2 x 1",
+					"date": "16 de junho"
+				}]
+			}, {
+				"stage": "Final",
+				"games": [{
+					"home": "Hungria",
+					"away": "Itália",
+					"score": "2 x 4",
+					"date": "19 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1934,
+		"country": "Itália",
+		"winner": "Itália",
+		"vice": "Tchecoslováquia",
+		"winnerScore": "2",
+		"viceScore": "1",
+		"matches": [{
+				"stage": "Oitavas de Final",
+				"games": [{
+					"home": "Itália",
+					"away": "Estados Unidos",
+					"score": "7 x 1",
+					"date": "27 de maio"
+				}]
+			},
+			{
+				"stage": "Quartas de Final",
+				"games": [{
+						"home": "Itália",
+						"away": "Espanha",
+						"score": "1 x 1",
+						"date": "31 de maio"
+					},
+					{
+						"home": "Itália",
+						"away": "Espanha",
+						"score": "1 x 0",
+						"date": "1 de junho"
+					}
+				]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Itália",
+					"away": "Áustria",
+					"score": "1 x 0",
+					"date": "3 de junho"
+				}]
+			}, {
+				"stage": "Final",
+				"games": [{
+					"home": "Itália",
+					"away": "Tchecoslováquia",
+					"score": "2 x 1",
+					"date": "10 de junho"
+				}]
+			}
+		]
+	},
+	{
+		"year": 1930,
+		"country": "Uruguai",
+		"winner": "Uruguai",
+		"vice": "Argentina",
+		"winnerScore": "4",
+		"viceScore": "2",
+		"matches": [{
+				"stage": "Fase de Grupos",
+				"games": [{
+						"home": "Uruguai",
+						"away": "Peru",
+						"score": "1 x 0",
+						"date": "18 de julho"
+					},
+					{
+						"home": "Uruguai",
+						"away": "Romênia",
+						"score": "4 x 0",
+						"date": "21 de julho"
+					}
+				]
+			},
+			{
+				"stage": "Semifinais",
+				"games": [{
+					"home": "Uruguai",
+					"away": "Iugoslávia",
+					"score": "6 x 1",
+					"date": "27 de julho"
+				}]
+			}, {
+				"stage": "Final",
+				"games": [{
+					"home": "Uruguai",
+					"away": "Argentina",
+					"score": "4 x 2",
+					"date": "30 de julho"
+				}]
+			}
+		]
+	}
+]

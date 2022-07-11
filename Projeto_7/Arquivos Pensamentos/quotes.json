@@ -1,0 +1,157 @@
+[
+	{
+		"quote": "Quando você elimina o impossível, o que sobra, por mais improvável que pareça, só pode ser a verdade.",
+		"author": "Arthur Conan Doyle",
+		"image": "arthur_conan_doyle"
+	},
+	{
+		"quote": "A dúvida é o principio da sabedoria.",
+		"author": "Aristóteles",
+		"image": "aristoteles"
+	},
+	{
+		"quote": "A grandeza não consiste em receber honras, mas em merecê-las",
+		"author": "Aristóteles",
+		"image": "aristoteles"
+	},
+	{
+		"quote": "Nenhum homem é uma ilha inteira de si mesmo; todo homem é parte do continente, parte do todo.",
+		"author": "John Donne",
+		"image": "john_donne"
+	},
+	{
+		"quote": "O coração tem razões que a própria razão desconhece.",
+		"author": "Blaise Pascal",
+		"image": "blaise_pascal"
+	},
+	{
+		"quote": "Você pode encarar o erro como uma besteira a ser esquecida, ou como um resultado que aponta uma nova direção",
+		"author": "Steve Jobs",
+		"image": "steve_jobs"
+	},
+	{
+		"quote": "Tenha coragem de seguir o que seu coração e sua intuição dizem. Eles já sabem o que você realmente deseja. Todo o resto é secundário",
+		"author": "Steve Jobs",
+		"image": "steve_jobs"
+	},
+	{
+		"quote": "A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere. Assim como no amor, você saberá quando tiver encontrado.",
+		"author": "Steve Jobs",
+		"image": "steve_jobs"
+	},
+	{
+		"quote": "Não deixe que o ruído da opinião alheia impeça que você escute a sua voz interior.",
+		"author": "Steve Jobs",
+		"image": "steve_jobs"
+	},
+	{
+		"quote": "Aprenda a parar de desperdiçar energia mental com coisas que estão além do seu controle",
+		"author": "Richard Restak",
+		"image": "richard_restak"
+	},
+	{
+		"quote": "A persistência é o menor caminho do êxito",
+		"author": "Charles Chaplin",
+		"image": "charles_chaplin"
+	},
+	{
+		"quote": "Coragem é a resistência ao medo, domínio do medo, e não a ausência do medo.",
+		"author": "Mark Twain",
+		"image": "mark_twain"
+	},
+	{
+		"quote": "Por isso, não fiquem preocupados com o dia de amanhã, pois o dia de amanhã trará as suas próprias preocupações. Para cada dia bastam as suas próprias dificuldades.",
+		"author": "Jesus de Nazaré",
+		"image": "jesus_de_nazare"
+	},
+	{
+		"quote": "Um homem sem propósito é como um navio sem leme.",
+		"author": "Thomas Carlyle",
+		"image": "thomas_carlyle"
+	},
+	{
+		"quote": "A alegria está na luta, na tentativa, no sofrimento envolvido. Não na vitória propriamente dita",
+		"author": "Mahatma Gandhi",
+		"image": "mahatma_gandhi"
+	},
+	{
+		"quote": "Não existe um caminho para a felicidade. A felicidade é o caminho.",
+		"author": "Mahatma Gandhi",
+		"image": "mahatma_gandhi"
+	},
+	{
+		"quote": "Você deve ser a mudança que deseja ver no mundo.",
+		"author": "Mahatma Gandhi",
+		"image": "mahatma_gandhi"
+	},
+	{
+		"quote": "Você pode fazer qualquer coisa, mas não tudo.",
+		"author": "David Allen",
+		"image": "david_allen"
+	},
+	{
+		"quote": "Você perde 100% dos tiros que nunca dá!",
+		"author": "Wayne Gretzky",
+		"image": "wayne_gretzky"
+	},
+	{
+		"quote": "Para o homem que só tem um martelo, tudo que ele encontra começa a parecer com um prego.",
+		"author": "Abraham Maslow",
+		"image": "abraham_maslow"
+	},
+	{
+		"quote": "A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro.",
+		"author": "Albert Einstein",
+		"image": "albert_einstein"
+	},
+	{
+		"quote": "A felicidade não se resume na ausência de problemas, mas sim na sua capacidade de lidar com eles.",
+		"author": "Albert Einstein",
+		"image": "albert_einstein"
+	},
+	{
+		"quote": "O impossível existe até que alguém duvide dele e prove o contrário.",
+		"author": "Albert Einstein",
+		"image": "albert_einstein"
+	},
+	{
+		"quote": "Todas as riquezas do mundo não valem um bom amigo.",
+		"author": "Voltaire",
+		"image": "voltaire"
+	},
+	{
+		"quote": "Enquanto a cor da pele for mais importante que o brilho dos olhos, haverá guerra.",
+		"author": "Bob Marley",
+		"image": "bob_marley"
+	},
+	{
+		"quote": "A coisa mais difícil é a decisão de agir, o resto é apenas tenacidade.",
+		"author": "Amelia Earhart",
+		"image": "amelia_earhart"
+	},
+	{
+		"quote": "A vida é aquilo que acontece enquanto você está fazendo outros planos.",
+		"author": "John Lennon",
+		"image": "john_lennon"
+	},
+	{
+		"quote": "A Mente É Tudo. O Que Você Pensa, Você Se Torna.",
+		"author": "Buddha",
+		"image": "buddha"
+	},
+	{
+		"quote": "Esvazie sua mente, seja como a água, se você coloca água em um copo, ela se torna um copo, se você a coloca em uma garrafa ela se torna uma garrafa, se você a coloca em uma chaleira, ela se torna uma chaleira, a água pode fluir mas também destruir, seja água meu amigo",
+		"author": "Bruce Lee",
+		"image": "bruce_lee"
+	},
+	{
+		"quote": "Se você pensa que pode ou se pensa que não pode, de qualquer forma você está certo.",
+		"author": "Henry Ford",
+		"image": "henry_ford"
+	},
+	{
+		"quote": "As pessoas costumam dizer que a motivação não dura sempre. Bem, nem o efeito do banho, por isso recomenda-se diariamente.",
+		"author": "Zig Ziglar",
+		"image": "zig_ziglar"
+	}
+]
