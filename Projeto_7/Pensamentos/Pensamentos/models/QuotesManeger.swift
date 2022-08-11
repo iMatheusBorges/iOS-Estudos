@@ -11,6 +11,7 @@ class QuotesManeger {
         let jsonData = try! Data(contentsOf: fileURL)
         let jsonDecoder = JSONDecoder()
         quotes = try! jsonDecoder.decode([Quote].self, from: jsonData)
+        
     }
     
     func getRandomQuote() -> Quote {
